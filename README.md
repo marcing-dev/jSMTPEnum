@@ -16,6 +16,6 @@ usage: java -jar jSMTPEnum.jar<br/>
  -U,--userlist <filename>   usernames list<br/>
  -u,--user <username>       username to check<br/>
  -w,--timeout <seconds>     timeout in seconds (default 5)<br/>
-<br/><script></script>
+<br/>
  I can add new features if needed, just let me know. Feel free to grab the code and play with it
  (nicely please). I'm using commons-cli so you might need it (http://commons.apache.org/proper/commons-cli/download_cli.cgi).
