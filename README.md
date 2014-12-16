@@ -6,7 +6,7 @@ some features. When provided with usernames list it will verify all in one conne
 
 jar in dist folder got needed libs inside so it's ready to use:
 
-usage: java -jar jSMTPEnum.jar
+usage: java -jar jSMTPEnum.jar<br>
  -d,--debug                 debug mode
  -f,--mail-from <email>     MAIL FROM address for RCPT method (default: user@slax.example.net
  -h,--help                  print this message
